@@ -1,8 +1,0 @@
-
-Spring + Hibernate + Spring MVC
-
-
-前端：
-	smart admin
-	
-
