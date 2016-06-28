@@ -1,0 +1,4 @@
+#Mon May 30 12:14:10 CST 2016
+eclipse.preferences.version=1
+validator.Checked=WebRoot/ajax,WebRoot/js,WebRoot/index.html
+validator.Unchecked=
